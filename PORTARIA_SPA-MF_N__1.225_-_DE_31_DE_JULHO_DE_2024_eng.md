@@ -1,6 +1,6 @@
 ---
 country: Brazil
-document_name: ORDINANCE SPA/MF No. 1,225, OF 31st OF JULY OF 2024
+document_name: PORTARIA SPA/MF Nº 1.225, DE 31 DE JULHO DE 2024
 source_file: PORTARIA SPA-MF Nº 1.225 - DE 31 DE JULHO DE 2024_eng.pdf
 extracted_date: 2026-04-30
 jurisdiction: Brazil
@@ -16,8 +16,9 @@ On the regulations for the monitoring and investigation of the activities that e
 
 THE SECRETARY OF PRIZES AND BETS OF THE MINISTRY OF FINANCE, in the exercise of powers bestowed upon him by art. 55, item I, paragraph “d”, of Annex I of Decree No. 11,907, of 30th of January 2024, and considering the provisions on art. 29, § 3, of Law No. 13,756, of 12th of December 2018, and on Chapter IX of Law No. 14,790, of 29th of December of 2023, rules:
 
-## CHAPTER I  
-PRELIMINARY PROVISIONS
+## CHAPTER I
+
+## PRELIMINARY PROVISIONS
 
 ### Art. 1.-
 
@@ -36,11 +37,13 @@ For the purposes of this Ordinance, the following terms are considered as follow
 7. **VII - investigation report:** document issued by the investigation team which describes the procedures followed, the analysis performed, the obtained results and the measures proposed upon the ending of the investigation actions; and
 8. **VIII - information request:** ruling that demands the presentation of information deemed relevant for monitoring and investigation.
 
-## CHAPTER II  
-ON MONITORING AND INVESTIGATION
+## CHAPTER II
 
-### Section I  
-General Provisions
+## ON MONITORING AND INVESTIGATION
+
+### Section I
+
+### General Provisions
 
 ### Art. 3.-
 
@@ -62,8 +65,9 @@ Monitoring and investigation of activities that explore lottery modalities of fi
 2. II - acting in a cohesively and in coordination among bodies and entities of the Ministry of Finance and other bodies and entities of public administration; and
 3. III - acting proportionally to the identified risks and coherently with the conduct of the betting operator agents.
 
-### Section II  
-On Monitoring
+### Section II
+
+### On Monitoring
 
 ### Art. 5.-
 
@@ -72,8 +76,9 @@ Monitoring of the activities that explore lottery modalities of fixed odds bets 
 1. I - of conduct, with the aim of supporting and analysing the apropriateness of the activities and betting operator agents to the legal norms and regulations; and
 2. II - precautionary, with the aim of validating the efficacy and effectivity of the system adopted by the betting operator agents regarding risk identification, valuation and treatment to mitigate threats to their usual operation, through a framework organised for timely intervention when necessary.
 
-### Section III  
-On Investigation
+### Section III
+
+### On Investigation
 
 ### Art. 6.-
 
@@ -99,8 +104,9 @@ Investigation actions must be recorded on the Electronic System of Information -
 
 Investigation, once initiated, shall last as long as necessary to clarify the facts, observing Law No. 9,873, of 23rd of November of 1999.
 
-### Section IV  
-On Inspection
+### Section IV
+
+### On Inspection
 
 ### Art. 8.-
 
@@ -157,8 +163,9 @@ It will be compulsory for the investigation team to identify themselves before t
 
 The identification referred to on the caption will not be compulsory under the hypothesis that confidentiality is essential for the efficacy of the inspection or safety of the investigation team, which must be recorded on the investigation report.
 
-### Section V  
-On the Requisition for Information
+### Section V
+
+### On the Requisition for Information
 
 ### Art. 13.-
 
@@ -176,8 +183,9 @@ The requisition for information can be sent to the physical and electronic addre
 
 Failing to fulfill the requisition may result in the penalties provided by the specific regulations of the Secretariat of Prizes and Bets of the Ministry of Finance.
 
-### Section VI  
-On the Investigation Report
+### Section VI
+
+### On the Investigation Report
 
 ### Art. 14.-
 
@@ -206,8 +214,9 @@ The report referred to on the caption will be forwarded to the Undersecretary of
 
 When conduct that presents signs of a crime is identified, the investigation team will forward the notification to the competent bodies.
 
-## CHAPTER III  
-ON DATA AND INFORMATION ACCESS
+## CHAPTER III
+
+## ON DATA AND INFORMATION ACCESS
 
 ### Art. 16.-
 
@@ -226,8 +235,9 @@ Regular consignments must be done through Bet Management System - SIGAP or other
 
 The means referred to on the caption may be used in parallel.
 
-## CHAPTER IV  
-ON HINDRANCE TO INVESTIGATION
+## CHAPTER IV
+
+## ON HINDRANCE TO INVESTIGATION
 
 ### Art. 17.-
 
@@ -247,8 +257,9 @@ The following are considered hypothesis of hindrance to investigation, among oth
 
 Once the hindrance to investigation is typified, the investigation team will propose the initiation of a sanctioning administrative proceeding, without prejudice to the necessary actions to continue with the investigation, to the imposition of ot her coercive and cautionary measures, and to the communication of potential signs of the commission of a crime to the competent authorities.
 
-## CHAPTER V  
-ON COERCIVE AND CAUTIONARY MEASURES
+## CHAPTER V
+
+## ON COERCIVE AND CAUTIONARY MEASURES
 
 ### Art. 19.-
 
@@ -283,8 +294,9 @@ The Secretariat of Prizes and Bets of the Ministry of Finance will communicate a
 
 In cases when the Secretariat of Prizes and Bets of the Ministry of Finance understands that the signs identified are enough to determine an infraction, the communication referred to on §1 may happen before the initiation or judgement of the sanctioning administrative proceeding.
 
-## CHAPTER VI  
-ON THE INITIATION OF THE SANCTIONING ADMINISTRATIVE PROCEEDING
+## CHAPTER VI
+
+## ON THE INITIATION OF THE SANCTIONING ADMINISTRATIVE PROCEEDING
 
 ### Art. 22.-
 
@@ -297,8 +309,9 @@ The sanctioning administrative proceeding must:
 1. I - be recorded on the Electronic System of Information - SEI and classified by its corresponding legal hypothesis; and
 2. II - follow the procedure on the specific regulations provided by the Office of Prizes and Bets of the Ministry of Finance.
 
-## CHAPTER VII  
-FINAL AND TRANSITIONAL PROVISIONS
+## CHAPTER VII
+
+## FINAL AND TRANSITIONAL PROVISIONS
 
 ### Art. 23.-
 
