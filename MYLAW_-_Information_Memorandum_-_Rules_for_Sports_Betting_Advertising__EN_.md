@@ -62,7 +62,7 @@ This is a non-exhaustive list of the main rules and guidelines in force on the d
 - Requirement of age restriction notices, with “18+” symbol or similar notice
 - Age restriction mechanisms must be adopted, as available and applicable (age gate)
 
-## SUMÁRIO DE REGRAS PARA A PUBLICIDADE DE APOSTAS - CONAR
+# SUMÁRIO DE REGRAS PARA A PUBLICIDADE DE APOSTAS - CONAR
 
 ## SUMMARY OF RULES FOR GAMBLING ADVERTISEMENTS - CONAR
 
