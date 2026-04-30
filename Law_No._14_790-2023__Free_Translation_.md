@@ -1,11 +1,2 @@
----
-country: Brazil
-document_name: Law No. 14,790-2023 (Free Translation)
-source_file: Law No. 14,790-2023 (Free Translation).docx
-extracted_date: 2026-04-30
-jurisdiction: Brazil
----
+> **Source:** [Law No. 14,790-2023 (Free Translation).docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Brazil/1. Legislation/Law No. 14,790-2023 (Free Translation).docx)
 
-# Law No. 14,790-2023 (Free Translation)
-
-DOCX extraction error: No binary data — DOCX extraction unavailable
